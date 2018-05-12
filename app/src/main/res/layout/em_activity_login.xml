@@ -15,7 +15,7 @@
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="60dip"
-            android:text="校园IM"
+            android:text="企业IM"
             android:textColor="#000"
             android:textSize="30sp" />
     </RelativeLayout>
